@@ -1,0 +1,18 @@
+.button{
+  width: 322px;
+  height: 45px;
+  font-family: 'Plus Jakarta Sans','Sans-serif';
+  font-weight: 500;
+  font-size: 18px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+
+@media(min-width: 992px){
+  .button{
+    width: 380px;
+    height: 62px;
+
+  }
+}
